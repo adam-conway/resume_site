@@ -14,5 +14,4 @@
 //= require js/bootstrap.bundle.min.js
 //= require jquery-easing/jquery.easing.min.js
 //= require resume.min.js
-//= require turbolinks
 //= require_tree .
